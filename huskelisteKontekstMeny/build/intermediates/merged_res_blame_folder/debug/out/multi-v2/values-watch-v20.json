@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\huskelisteKontekstMeny\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "dt.hin.no.huskeliste1.huskelisteKontekstMeny-mergeDebugResources-13:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abdka\\.gradle\\caches\\transforms-2\\files-2.1\\2cefe29a8c917bc53cb286159c2c30ef\\appcompat-1.2.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "/home/lenardis/.gradle/caches/transforms-3/604365ef41fe5c9bb88ff215f2ef5e4a/transformed/appcompat-1.2.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

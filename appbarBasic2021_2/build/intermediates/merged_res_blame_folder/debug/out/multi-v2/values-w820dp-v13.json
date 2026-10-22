@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "dt.hin.no.appbarBasic2021_2-mergeDebugResources-13:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\appbarBasic2021_2\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "/home/lenardis/AndroidStudio/android-java-examples/appbarBasic2021_2/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

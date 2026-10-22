@@ -1,30 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_other.xml.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\layout\\activity_other.xml"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/layout_activity_other.xml.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/layout/activity_other.xml"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/layout_activity_main.xml.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\lifeCycleDemo\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "no.hin.dt.lifecycledemo1.lifeCycleDemo-merged_res-8:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "no.hin.dt.lifecycledemo1.lifeCycleDemo-main-10:/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

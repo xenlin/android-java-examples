@@ -1,7 +1,19 @@
-#Thu Apr 22 02:15:54 CEST 2021
-base.0=C\:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\SQLite1\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
+#Wed Oct 21 23:30:58 CEST 2026
+path.4=12/classes.dex
+path.3=10/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.5=2/classes.dex
 path.0=classes.dex
+base.4=/home/lenardis/AndroidStudio/android-java-examples/SQLite1/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.3=/home/lenardis/AndroidStudio/android-java-examples/SQLite1/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.2=/home/lenardis/AndroidStudio/android-java-examples/SQLite1/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.1=/home/lenardis/AndroidStudio/android-java-examples/SQLite1/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/home/lenardis/AndroidStudio/android-java-examples/SQLite1/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\SQLite1\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=/home/lenardis/AndroidStudio/android-java-examples/SQLite1/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex

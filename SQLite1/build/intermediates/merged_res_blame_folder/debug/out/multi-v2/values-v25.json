@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\SQLite1\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "dt.hin.no.SQLite1-mergeDebugResources-18:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abdka\\.gradle\\caches\\transforms-2\\files-2.1\\2cefe29a8c917bc53cb286159c2c30ef\\appcompat-1.2.0\\res\\values-v25\\values-v25.xml",
+                    "source": "/home/lenardis/.gradle/caches/transforms-3/604365ef41fe5c9bb88ff215f2ef5e4a/transformed/appcompat-1.2.0/res/values-v25/values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

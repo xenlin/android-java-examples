@@ -1,7 +1,10 @@
-#Thu Apr 22 02:13:06 CEST 2021
-base.0=C\:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\intent1\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-path.1=classes.dex
+#Wed Oct 21 23:28:11 CEST 2026
+base.2=/home/lenardis/AndroidStudio/android-java-examples/intent1/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+path.2=14/classes.dex
+base.1=/home/lenardis/AndroidStudio/android-java-examples/intent1/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/home/lenardis/AndroidStudio/android-java-examples/intent1/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
 renamed.1=classes2.dex
-path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\intent1\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex

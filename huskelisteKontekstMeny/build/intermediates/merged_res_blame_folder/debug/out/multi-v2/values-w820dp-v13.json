@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\huskelisteKontekstMeny\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "dt.hin.no.huskeliste1.huskelisteKontekstMeny-mergeDebugResources-13:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\huskelisteKontekstMeny\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "/home/lenardis/AndroidStudio/android-java-examples/huskelisteKontekstMeny/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

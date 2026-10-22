@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "dt.hin.no.service3-merged_res-9:/drawable-hdpi_ic_baseline_add_location_24.xml.flat",
+        "source": "dt.hin.no.service3-main-11:/drawable-hdpi/ic_baseline_add_location_24.xml"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "dt.hin.no.service3-merged_res-9:/drawable-ldpi_icon.png.flat",
+        "source": "dt.hin.no.service3-main-11:/drawable-ldpi/icon.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "dt.hin.no.service3-merged_res-9:/layout_main.xml.flat",
+        "source": "dt.hin.no.service3-main-11:/layout/main.xml"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\src\\main\\res\\layout\\main.xml"
+        "merged": "dt.hin.no.service3-merged_res-9:/drawable-hdpi_icon.png.flat",
+        "source": "dt.hin.no.service3-main-11:/drawable-hdpi/icon.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_location_24.xml.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service3\\src\\main\\res\\drawable-hdpi\\ic_baseline_add_location_24.xml"
+        "merged": "dt.hin.no.service3-merged_res-9:/drawable-mdpi_icon.png.flat",
+        "source": "dt.hin.no.service3-main-11:/drawable-mdpi/icon.png"
     }
 ]

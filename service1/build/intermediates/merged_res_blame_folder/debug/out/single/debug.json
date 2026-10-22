@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "dt.hin.no.service1-merged_res-8:/layout_main.xml.flat",
+        "source": "dt.hin.no.service1-main-10:/layout/main.xml"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "dt.hin.no.service1-merged_res-8:/drawable-ldpi_icon.png.flat",
+        "source": "dt.hin.no.service1-main-10:/drawable-ldpi/icon.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "dt.hin.no.service1-merged_res-8:/drawable-hdpi_icon.png.flat",
+        "source": "dt.hin.no.service1-main-10:/drawable-hdpi/icon.png"
     },
     {
-        "merged": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
-        "source": "C:\\Users\\abdka\\AndroidStudioProjects\\InputProsjekt\\service1\\src\\main\\res\\layout\\main.xml"
+        "merged": "dt.hin.no.service1-merged_res-8:/drawable-mdpi_icon.png.flat",
+        "source": "dt.hin.no.service1-main-10:/drawable-mdpi/icon.png"
     }
 ]
